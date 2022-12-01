@@ -1,7 +1,7 @@
 Hey, I’m oM!
 
 
-🚀 I’m currently learning / have learnt:
+🚀 I have learnt / am currently learning:
       
       karel()
       python()
