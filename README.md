@@ -1,4 +1,4 @@
-👋 Hey, I’m oM!
+Hey, I’m oM!
 
 
 🚀 I’m currently learning / have learnt:
