@@ -1,16 +1,6 @@
-Hey, I’m oM!
+Hey, I’m oM! This account is where you can find all my programs I have written while taking courses by various universities. They are categorised by courses and come 
+with everything you need to run and understand them.
 
-
-🚀 I have learnt / am currently learning:
-      
-      karel using python,
-      python
-      
-📘 Courses I have completed / am completing so far:
-      
-      cs106a
-      
-      
 Thanks for visiting!
       
 <!---
