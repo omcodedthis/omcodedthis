@@ -3,12 +3,12 @@ Hey, I’m oM!
 
 🚀 I have learnt / am currently learning:
       
-      karel()
-      python()
+      karel using python
+      python(
       
 📘 Courses I have completed / am completing so far:
       
-      cs106a()
+      cs106a
       
       
 Thanks for visiting!
