@@ -2,7 +2,6 @@
 
 I'm Om, who has a great passion for programming in the fields of Data Science, Cybersecurity, UI/UX & Fintech. Currently, I'm taking courses to gain a deeper understanding of the use of software & hardware related concepts to solve problems.
 
-&nbsp;
 
 ## Courses
 
