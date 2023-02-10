@@ -1,9 +1,10 @@
-Hey, I’m oM! This account is where you can find all the programs I have written. They are categorised by course and come 
-with everything you need to run and understand them.
+Hey!
+=========================================================================================================================================================================
+I'm Om from Singapore, who has a great passion for programming in the fields of Data Science, Cybersecurity, UI/UX & Fintech. Currently, I am taking courses to gain a deeper understanding of merging both software & hardware related concepts to solve problems.
 
-Thanks for visiting!
-      
-<!---
-oMs-codes/oMs-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Courses
+=========================================================================================================================================================================
+* CS106A - Introduces the fundamental concepts of problem solving by computing and programming.
+
+* CS50x - Teaches higher-level concepts such abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.
