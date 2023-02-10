@@ -12,5 +12,5 @@ I'm Om, who has a great passion for programming in the fields of Data Science, C
 #### Languages & Tools Used
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)](https://www.python.org/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/)  [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/) [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 
-## Stats
+## Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=omcodedthis&hide=contribs,prs,stars&line_height=40&theme=transparent)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcodedthis&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
