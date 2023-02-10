@@ -14,4 +14,4 @@ I'm Om, who has a great passion for programming in the fields of Data Science, C
 
 --------------------------------------------------------
 
-[![stats](https://vercelcheck-t9l6.vercel.app/?username=omcodedthis)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://vercelcheck-t9l6.vercel.app//api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
