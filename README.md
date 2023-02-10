@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Om from Singapore, who has a great passion for programming in the fields of Data Science, Cybersecurity, UI/UX & Fintech. Currently, I taking courses to gain a deeper understanding of merging both software & hardware related concepts to solve problems.
+I'm Om, who has a great passion for programming in the fields of Data Science, Cybersecurity, UI/UX & Fintech. Currently, I'm taking courses to gain a deeper understanding of the use of software & hardware related concepts to solve problems.
 
 
 ## Courses
@@ -14,4 +14,4 @@ I'm Om from Singapore, who has a great passion for programming in the fields of 
 
 --------------------------------------------------------
 
-[![stats](https://github-readme-stats.vercel.app/api?username=omcodedthis)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://vercelcheck-t9l6.vercel.app/?username=omcodedthis)](https://github.com/anuraghazra/github-readme-stats)
