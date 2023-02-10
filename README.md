@@ -1,4 +1,4 @@
-# Hey!
+# Hey! 👋
 
 I'm Om from Singapore, who has a great passion for programming in the fields of Data Science, Cybersecurity, UI/UX & Fintech. Currently, I taking courses to gain a deeper understanding of merging both software & hardware related concepts to solve problems.
 
