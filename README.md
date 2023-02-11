@@ -14,4 +14,4 @@ I'm Om, who has a great passion for programming in the fields of Data Science, C
 
 
 ## Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omcodedthis&hide=contribs,prs,stars&line_height=40&theme=transparent)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcodedthis&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omcodedthis&hide=contribs,prs,stars&line_height=40&theme=transparent)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcodedthis&layout=compact&theme=transparent)
