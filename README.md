@@ -10,7 +10,7 @@ I'm Om, who has a great passion for programming in the fields of Data Science, C
 * **CS50x:** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development by Harvard University.
 
 #### Languages & Tools Used
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)](https://www.cprogramming.com/) [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)](https://www.python.org/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/)  [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/) [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)](https://www.open-std.org/jtc1/sc22/wg14/) [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)](https://www.python.org/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/)  [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/) [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 
 
 ## Statistics
