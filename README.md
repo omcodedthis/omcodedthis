@@ -1,6 +1,6 @@
 # Hey!
 
-I'm Om, who has a great passion for programming in the fields of Data Science, Cybersecurity, UI/UX & Fintech. Currently, I'm taking courses to gain a deeper understanding of the use of software & hardware related concepts to solve problems applicable to these domains.
+I'm Om, who has a great passion for programming in the fields of Fintech, Cybersecurity, UI/UX & Data Science. Currently, I'm taking courses to gain a deeper understanding of the use of software & hardware related concepts to solve problems applicable to these domains.
 
 
 ## Courses
