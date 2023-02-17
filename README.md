@@ -12,7 +12,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 ## Projects
 * **Breakout:** The classic arcade game of Breakout written in Python.
 
-* **c-planner:** A program that automatically plans a duty schedule that is randomised for each person to prevent bias.
+* **c-planner:** A program that automatically plans a duty schedule that is randomised for each person to prevent bias. _**(Work in Progress)**_
 
 #### Languages & Tools Used
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)](https://www.open-std.org/jtc1/sc22/wg14/) [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)](https://www.python.org/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/)  [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/) [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
