@@ -23,6 +23,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)](https://www.python.org/) 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=flat)](https://www.sqlite.org/index.html) 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/) 
 [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/) 
 [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 
