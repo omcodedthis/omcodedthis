@@ -10,7 +10,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 * **CS50x:** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development by Harvard University.
 
 ## Projects
-* **Breakout:** A program that is the classic arcade game of Breakout written in Python.
+* **Breakout:** The classic arcade game of Breakout written in Python.
 
 * **Staid:** A Web App that is a study aid which complements a student's learning written in Python, HTML, CSS & JavaScript.  _**(Work in Progress)**_
 
