@@ -39,4 +39,4 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 
 ## Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omcodedthis&hide=contribs,stars&show_icons=true&line_height=30&theme=transparent) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcodedthis&langs_count=6&hide=CWeb,Makefile,OpenEdge%20ABL&exclude_repo=CS106A,CS50x,cs61b_repo&layout=compact&theme=transparent) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omcodedthis&hide=contribs,stars&show_icons=true&line_height=30&theme=transparent) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcodedthis&langs_count=6&hide=CWeb,Makefile,OpenEdge%20ABL&exclude_repo=CS106A,CS50x,cs61b_repo,CS61B&layout=compact&theme=transparent) 
