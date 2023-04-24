@@ -11,6 +11,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **CS61B:** Focuses on fundamental data structures and algorithms concepts along with software engineering by UC Berkeley. 
 
+
 ## Projects
 * **Breakout:** The classic arcade game of Breakout written in Python.
 
@@ -19,6 +20,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 * **badger:** A program that automates the process of creating Shields.io badges written in Java.
 
 * **c-planner:** A program that plans a duty schedule that is randomised for each person to prevent bias written in C.
+
 
 #### Languages & Tools Used
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)](https://www.open-std.org/jtc1/sc22/wg14/) 
