@@ -38,6 +38,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=JUnit5&logoColor=white&style=flat)](https://junit.org/junit5/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/)
 [![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-44A833?logo=Anaconda&logoColor=white&style=flat)](https://www.pythonanywhere.com/)
+[![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=Sublime%20Text&logoColor=white&style=flat)](https://www.sublimetext.com/)
 [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 
 
