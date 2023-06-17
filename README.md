@@ -19,7 +19,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **badger:** A program that automates the process of creating Shields.io badges written in Java.
 
-* **c-planner:** A program that plans a duty schedule that is randomised for each person to prevent bias written in C.
+* **c-planner:** A program that plans a duty schedule that is randomised in order to prevent bias written in C.
 
 
 #### Languages & Tools Used
