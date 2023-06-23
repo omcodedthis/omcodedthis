@@ -21,7 +21,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **c-planner:** A program that plans a duty schedule that is randomised in order to prevent bias written in C.
 
-*  **EnvGPT (New):** A text-based chatbot hosted on [Steamship](https://www.steamship.com/) that utilises [OpenAI's GPT-4,](https://openai.com/gpt-4) providing an environmental viewpoint in its replies.
+*  **[EnvGPT (New):](https://github.com/omcodedthis/EnvGPT)** A text-based chatbot hosted on [Steamship](https://www.steamship.com/) that utilises [OpenAI's GPT-4,](https://openai.com/gpt-4) providing an environmental viewpoint in its replies.
 
 
 #### Languages & Tools Used
