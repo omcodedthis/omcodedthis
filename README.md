@@ -42,7 +42,6 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-44A833?logo=Anaconda&logoColor=white&style=flat)](https://www.pythonanywhere.com/)
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=Sublime%20Text&logoColor=white&style=flat)](https://www.sublimetext.com/)
 [![Steamship](https://img.shields.io/badge/-Steamship-6244ac?logo=Python&logoColor=white&style=flat)](https://www.steamship.com/)
-[![Vim](https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=white&style=flat)](https://www.vim.org/)
 [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 
 
