@@ -30,6 +30,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat)](https://html.spec.whatwg.org/multipage/)
 [![Java](https://img.shields.io/badge/-Java-ED8B00?logo=Oracle&logoColor=white&style=flat)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=323330&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Markdown](https://img.shields.io/badge/-Markdown-4a525a?logo=Markdown&logoColor=white&style=flat)](https://daringfireball.net/projects/markdown/) 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)](https://www.python.org/) 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=flat)](https://www.sqlite.org/index.html) 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/) 
