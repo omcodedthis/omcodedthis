@@ -45,7 +45,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-44A833?logo=Anaconda&logoColor=white&style=flat)](https://www.pythonanywhere.com/)
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=Sublime%20Text&logoColor=white&style=flat)](https://www.sublimetext.com/)
 [![Steamship](https://img.shields.io/badge/-Steamship-6244ac?logo=Python&logoColor=white&style=flat)](https://www.steamship.com/)
-[![Ultimaker](https://img.shields.io/badge/-Ultimaker-100aed?logo=MakerBot&logoColor=white&style=flat)](https://ultimaker.com/)
+[![Ultimaker](https://img.shields.io/badge/-Ultimaker-100aed?logo=MakerBot&logoColor=white&style=flat)](https://ultimaker.com/3d-printers/s-series/ultimaker-s3/)
 [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 
 
