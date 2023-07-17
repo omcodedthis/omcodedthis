@@ -13,15 +13,16 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 
 ## Projects
-* **Breakout:** The classic arcade game of Breakout written in Python.
 
 * **[Staid:](https://staid.pythonanywhere.com/)** A Web App which complements a student's learning written in Python, HTML, CSS & JavaScript.
+
+* **[EnvGPT:](https://github.com/omcodedthis/EnvGPT)** A text-based chatbot hosted on [Steamship](https://www.steamship.com/) that utilises [OpenAI's GPT-4,](https://openai.com/gpt-4) providing an environmental viewpoint in its replies.
+
+* **Breakout:** The classic arcade game of Breakout written in Python.
 
 * **badger:** A program that automates the process of creating Shields.io badges written in Java.
 
 * **c-planner:** A program that plans a duty schedule that is randomised in order to prevent bias written in C.
-
-* **[EnvGPT:](https://github.com/omcodedthis/EnvGPT)** A text-based chatbot hosted on [Steamship](https://www.steamship.com/) that utilises [OpenAI's GPT-4,](https://openai.com/gpt-4) providing an environmental viewpoint in its replies.
 
 
 #### Languages & Tools Used
