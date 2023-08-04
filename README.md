@@ -7,9 +7,9 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **CS106A:** Teaches the fundamental concepts of programming and problem-solving by Stanford University.
 
-* **CS50x:** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development by Harvard University.
+* **[CS50x:](https://github.com/omcodedthis/CS50x-Scores)** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development by Harvard University.
 
-* **[CS61B:](https://github.com/omcodedthis/CS61B)** Focuses on fundamental data structures and algorithms concepts along with software engineering by UC Berkeley. 
+* **[CS61B:](https://github.com/omcodedthis/CS61B-Scores)** Focuses on fundamental data structures and algorithms concepts along with software engineering by UC Berkeley. 
 
 
 ## Projects
