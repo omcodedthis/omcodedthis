@@ -20,6 +20,8 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **[Catch-16:](https://github.com/omcodedthis/Catch-16)** A 2D tile-based world exploration game written in Java. **(Work In Progress)**
 
+* **[My-GAN:](https://github.com/omcodedthis/Catch-16)** My first ever rendition of Generative Adversarial Networks (GANs) written in Python. **(Work In Progress)** 
+
 * **Breakout:** The classic arcade game of Breakout written in Python.
 
 * **badger:** A program that automates the process of creating Shields.io badges written in Java.
