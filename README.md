@@ -45,6 +45,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Fusion 360](https://img.shields.io/badge/-Fusion%20360-ff6b00?logo=Autodesk&logoColor=white&style=flat)](https://www.autodesk.com/products/fusion-360/personal)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat)](https://git-scm.com/)
 [![GitBook](https://img.shields.io/badge/-GitBook-3884FF?logo=GitBook&logoColor=white&style=flat)](https://www.gitbook.com/)
+[![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=Google%20Colab&logoColor=white&style=flat)](https://colab.google/)
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0f60ee?logo=IntelliJ%20IDEA&logoColor=white&style=flat)](https://www.jetbrains.com/idea/)
 [![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=JUnit5&logoColor=white&style=flat)](https://junit.org/junit5/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/)
