@@ -18,7 +18,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **[EnvGPT:](https://www.steamship.com/packages/envgpt-4-bot)** A text-based chatbot hosted on [Steamship](https://www.steamship.com/) that utilises [OpenAI's GPT-4,](https://openai.com/gpt-4) providing an environmental viewpoint in its replies.
 
-* **[Catch-16:](https://github.com/omcodedthis/Catch-16)** A 2D tile-based world exploration game written in Java. **(Work In Progress)**
+* **[Oubliette:](https://github.com/omcodedthis/Oubliette)** A 2D tile-based world exploration game written in Java. **(Work In Progress)**
 
 * **[My-GAN:](https://colab.research.google.com/drive/1JlCd-EC7AatYjlFO1jLHTA80jKz6cnXr)** My first ever rendition of Generative Adversarial Networks (GANs), hosted on [Google Colab](https://colab.google/) & written in Python.
 
