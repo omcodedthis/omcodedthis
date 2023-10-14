@@ -1,4 +1,5 @@
 # Hey!
+
 I'm Om, who has a great passion for programming in the fields of Fintech, Cybersecurity, & Generative AI. Currently, I'm taking courses to gain a deeper understanding of the use of software & hardware related concepts to solve problems applicable to these domains.
 
 ## Courses
@@ -26,6 +27,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 * **c-planner:** A program that plans a duty schedule that is randomised in order to prevent bias written in C.
 
 #### Languages & Tools Used
+
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)](https://www.open-std.org/jtc1/sc22/wg14/) 
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat)](https://www.w3.org/Style/CSS/Overview.en.html) 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat)](https://html.spec.whatwg.org/multipage/)
