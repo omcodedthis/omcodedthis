@@ -1,7 +1,5 @@
 # Hey!
-
 I'm Om, who has a great passion for programming in the fields of Fintech, Cybersecurity, & Generative AI. Currently, I'm taking courses to gain a deeper understanding of the use of software & hardware related concepts to solve problems applicable to these domains.
-
 
 ## Courses
 
@@ -10,7 +8,6 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 * **[CS50x:](https://github.com/omcodedthis/CS50x-Scores)** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development by Harvard University.
 
 * **[CS61B:](https://github.com/omcodedthis/CS61B-Scores)** Focuses on fundamental data structures and algorithms concepts along with software engineering by UC Berkeley. 
-
 
 ## Projects
 
@@ -27,7 +24,6 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 * **badger:** A program that automates the process of creating Shields.io badges written in Java.
 
 * **c-planner:** A program that plans a duty schedule that is randomised in order to prevent bias written in C.
-
 
 #### Languages & Tools Used
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)](https://www.open-std.org/jtc1/sc22/wg14/) 
@@ -56,7 +52,6 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=Unity&logoColor=grey&style=flat)](https://unity.com/developer-tools)
 [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 [![Wix Editor](https://img.shields.io/badge/-Wix%20Editor-0C6EFC?logo=Wix&logoColor=white&style=flat)](https://www.wix.com/release/notes/wix-editor)
-
 
 ## Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omcodedthis&rank_icon=github&hide=contribs&show_icons=true&line_height=24&theme=transparent) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcodedthis&langs_count=6&hide=CWeb,Makefile,OpenEdge%20ABL&exclude_repo=CS106A,cs61b_repo,My-GAN&layout=compact&theme=transparent) 
