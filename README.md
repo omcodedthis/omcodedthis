@@ -56,4 +56,4 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Wix Editor](https://img.shields.io/badge/-Wix%20Editor-0C6EFC?logo=Wix&logoColor=white&style=flat)](https://www.wix.com/release/notes/wix-editor)
 
 ## Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omcodedthis&rank_icon=github&hide=contribs&show_icons=true&line_height=24&theme=transparent) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcodedthis&langs_count=6&hide=CWeb,Makefile,OpenEdge%20ABL&exclude_repo=CS106A,cs61b_repo,My-GAN&layout=compact&theme=transparent) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omcodedthis&rank_icon=github&hide=contribs&show_icons=true&line_height=20&theme=transparent&show=prs_merged_percentage) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcodedthis&langs_count=6&hide=CWeb,Makefile,OpenEdge%20ABL&exclude_repo=CS106A,cs61b_repo,My-GAN&layout=compact&theme=transparent) 
