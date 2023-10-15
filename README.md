@@ -8,7 +8,9 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **[CS50x:](https://github.com/omcodedthis/CS50x-Scores)** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development by Harvard University.
 
-* **[CS61B:](https://github.com/omcodedthis/CS61B-Scores)** Focuses on fundamental data structures and algorithms concepts along with software engineering by UC Berkeley. 
+* **[CS61B:](https://github.com/omcodedthis/CS61B-Scores)** Focuses on fundamental data structures and algorithms concepts along with software engineering by UC Berkeley.
+
+* **[CS50 Cybersecurity](https://github.com/omcodedthis/CS50-Cybersecurity-Scores)** Teaches fundamental concepts on securing software against today’s threats and how to recognize and evaluate tomorrow’s as well by Harvard University.
 
 ## Projects
 
