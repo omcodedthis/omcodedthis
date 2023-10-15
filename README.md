@@ -10,7 +10,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **[CS61B:](https://github.com/omcodedthis/CS61B-Scores)** Focuses on fundamental data structures and algorithms concepts along with software engineering by UC Berkeley.
 
-* **[CS50 Cybersecurity:](https://github.com/omcodedthis/CS50-Cybersecurity-Scores)** Teaches fundamental concepts on securing software against today’s threats and how to recognize and evaluate tomorrow’s as well by Harvard University.
+* **[CS50 Cybersecurity:](https://github.com/omcodedthis/CS50-Cybersecurity-Scores)** Teaches fundamental concepts on securing software against threats and how to recognise and evaluate them by Harvard University.
 
 ## Projects
 
