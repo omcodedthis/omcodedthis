@@ -24,6 +24,8 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **Breakout:** The classic arcade game of Breakout written in Python.
 
+* **wraper:** A web scraper, intented to showcase the vulnerabilites of retrieving & parsing public data written in Java.
+
 * **badger:** A program that automates the process of creating Shields.io badges written in Java.
 
 * **c-planner:** A program that plans a duty schedule that is randomised in order to prevent bias written in C.
