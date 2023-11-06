@@ -57,6 +57,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-00A2FF?logo=Roblox%20Studio&logoColor=white&style=flat)](https://create.roblox.com/landing)
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=Sublime%20Text&logoColor=white&style=flat)](https://www.sublimetext.com/)
 [![Steamship](https://img.shields.io/badge/-Steamship-6244ac?logo=Python&logoColor=white&style=flat)](https://www.steamship.com/)
+[![Syncthing](https://img.shields.io/badge/-Syncthing-19a0d3?logo=GitHub&logoColor=white&style=flat)](https://github.com/syncthing/syncthing)
 [![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=Unity&logoColor=grey&style=flat)](https://unity.com/developer-tools)
 [![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 [![Wix Editor](https://img.shields.io/badge/-Wix%20Editor-0C6EFC?logo=Wix&logoColor=white&style=flat)](https://www.wix.com/release/notes/wix-editor)
