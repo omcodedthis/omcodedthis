@@ -54,6 +54,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=Google%20Colab&logoColor=white&style=flat)](https://colab.google/)
 [![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0f60ee?logo=IntelliJ%20IDEA&logoColor=white&style=flat)](https://www.jetbrains.com/idea/)
 [![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=JUnit5&logoColor=white&style=flat)](https://junit.org/junit5/)
+[![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?logo=Meta&logoColor=black&style=flat)](https://ollama.ai/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/)
 [![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-44A833?logo=Anaconda&logoColor=white&style=flat)](https://www.pythonanywhere.com/)
 [![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-00A2FF?logo=Roblox%20Studio&logoColor=white&style=flat)](https://create.roblox.com/landing)
