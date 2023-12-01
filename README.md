@@ -12,7 +12,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **CS170:** Focuses on Search, Machine Learning and Logic Systems, touching on advanced topics such as genetic algorithms by UC Riverside.
 
-* **[CS50CS:](https://github.com/omcodedthis/CS50-Cybersecurity-Scores)** Teaches fundamental concepts on cybersecurity and its relevant trade-offs by Harvard University.
+* **[CS50CS:](https://github.com/omcodedthis/CS50-Cybersecurity-Scores)** Teaches fundamental concepts on cybersecurity and its relevant trade-offs along with privacy preservation techniques by Harvard University.
 
 ## Projects
 
