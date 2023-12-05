@@ -46,6 +46,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/) 
 [![Coderbyte](https://img.shields.io/badge/-Coderbyte-1ec1c8?logo=Github&logoColor=white&style=flat)](https://coderbyte.com/)
+[![CodeSignal](https://img.shields.io/badge/-CodeSignal-1062fb?logo=CodeSignal&logoColor=white&style=flat)](https://codesignal.com/)
 [![Docker](https://img.shields.io/badge/-Docker-1d63ed?logo=Docker&logoColor=white&style=flat)](https://www.docker.com/) 
 [![Flask](https://img.shields.io/badge/-Flask-FFFFFF?logo=Flask&logoColor=black&style=flat)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Fusion 360](https://img.shields.io/badge/-Fusion%20360-ff6b00?logo=Autodesk&logoColor=white&style=flat)](https://www.autodesk.com/products/fusion-360/personal)
