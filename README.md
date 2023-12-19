@@ -26,7 +26,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **Breakout:** The classic arcade game of Breakout written in Python.
 
-* **wraper:** A web scraper, intented to showcase the vulnerabilites of retrieving & parsing public data written in Java.
+* **wraper:** A web scraper, which extracts text from a webpage & creates a summary with the use of [Ollama's Orca Mini](https://ollama.ai/library/orca-mini), written in Java.
 
 * **badger:** A program that automates the process of creating Shields.io badges written in Java.
 
