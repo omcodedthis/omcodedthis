@@ -18,7 +18,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **[Staid:](https://staid.pythonanywhere.com/)** A Web App which complements a student's learning written in Python, HTML, CSS & JavaScript.
 
-* **[EnvGPT:](https://www.steamship.com/packages/envgpt-4-bot)** A text-based chatbot hosted on [Steamship](https://www.steamship.com/) that utilises [OpenAI's GPT-4,](https://openai.com/gpt-4) providing an environmental viewpoint in its responses.
+* **[EnvGPT:](https://www.steamship.com/packages/envgpt-4-bot)** A text-based chatbot hosted on [Steamship](https://www.steamship.com/) that utilises [OpenAI's GPT-4](https://openai.com/gpt-4), providing an environmental viewpoint in its responses.
 
 * **[Oubliette:](https://github.com/omcodedthis/Oubliette)** A 2D tile-based world exploration game written in Java.
 
