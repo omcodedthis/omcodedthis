@@ -36,6 +36,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)](https://www.open-std.org/jtc1/sc22/wg14/) 
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat)](https://www.w3.org/Style/CSS/Overview.en.html) 
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=flat)](https://dart.dev/) 
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat)](https://html.spec.whatwg.org/multipage/)
 [![Java](https://img.shields.io/badge/-Java-ED8B00?logo=Oracle&logoColor=white&style=flat)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=323330&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
