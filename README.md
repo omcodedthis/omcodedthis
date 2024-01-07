@@ -24,6 +24,8 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **[My-GAN:](https://colab.research.google.com/drive/1JlCd-EC7AatYjlFO1jLHTA80jKz6cnXr)** My first ever rendition of Generative Adversarial Networks (GANs), hosted on [Google Colab](https://colab.google/) & written in Python.
 
+* **[ToDo:](https://github.com/omcodedthis/ToDo)** A To-Do list app built on Flutter, a multi-platform open-source framework, written in Dart.
+
 * **Breakout:** The classic arcade game of Breakout written in Python.
 
 * **wraper:** A web scraper, which extracts text from a webpage & creates a summary with the use of [Ollama's Orca Mini,](https://ollama.ai/library/orca-mini) written in Java.
