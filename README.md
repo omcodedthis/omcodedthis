@@ -49,6 +49,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white&style=flat)](https://developer.android.com/studio) 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/) 
+[![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare%20Pages-F38020?logo=Cloudflare%20Pages&logoColor=white&style=flat)](https://pages.cloudflare.com/) 
 [![Coderbyte](https://img.shields.io/badge/-Coderbyte-1ec1c8?logo=Github&logoColor=white&style=flat)](https://coderbyte.com/)
 [![CodeSignal](https://img.shields.io/badge/-CodeSignal-1062fb?logo=CodeSignal&logoColor=white&style=flat)](https://codesignal.com/)
 [![Docker](https://img.shields.io/badge/-Docker-1d63ed?logo=Docker&logoColor=white&style=flat)](https://www.docker.com/) 
