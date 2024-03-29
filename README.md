@@ -26,7 +26,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **[ToDo:](https://github.com/omcodedthis/ToDo)** A To-Do list app built with Flutter, a multi-platform open-source framework, written in Dart.
 
-* **[My-Blog:](https://github.com/omcodedthis/My-Blog)** The source code for my blog, named "The Blog" which is built using Astro.
+* **[My-Blog:](https://github.com/omcodedthis/My-Blog)** The source code for my blog, named "The Blog" which is built with Astro.
 
 * **Breakout:** The classic arcade game of Breakout written in Python.
 
