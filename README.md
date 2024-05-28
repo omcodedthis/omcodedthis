@@ -1,16 +1,16 @@
 # Hey!
 
-I'm Om, who has a great passion for programming in the fields of Fintech, Cybersecurity, & Generative AI. Currently, I'm taking courses along with personal projects to gain a deeper understanding of the use of software & hardware related concepts to solve problems applicable to these domains.
+I'm Om, who has a great passion for programming in the fields of Fintech, Cybersecurity, & Generative AI. Currently, I'm taking courses along with personal projects to gain a deeper underst&ing of the use of software & hardware related concepts to solve problems applicable to these domains.
 
 ## Courses
 
-* **CS106A:** Teaches the fundamental concepts of programming and problem-solving by Stanford University.
+* **CS106A:** Teaches the fundamental concepts of programming & problem-solving by Stanford University.
 
-* **[CS50x:](https://github.com/omcodedthis/CS50x-Scores)** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development by Harvard University.
+* **[CS50x:](https://github.com/omcodedthis/CS50x-Scores)** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, & web development by Harvard University.
 
-* **[CS61B:](https://github.com/omcodedthis/CS61B-Scores)** Focuses on fundamental data structures and algorithms concepts along with software engineering by UC Berkeley.
+* **[CS61B:](https://github.com/omcodedthis/CS61B-Scores)** Focuses on fundamental data structures & algorithms concepts along with software engineering by UC Berkeley.
 
-* **[CS50CS:](https://github.com/omcodedthis/CS50-Cybersecurity-Scores)** Teaches fundamental concepts on cybersecurity and its relevant trade-offs by Harvard University.
+* **[CS50CS:](https://github.com/omcodedthis/CS50-Cybersecurity-Scores)** Teaches fundamental concepts on cybersecurity & its relevant trade-offs by Harvard University.
 
 ## Projects
 
@@ -32,7 +32,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 
 * **badger:** A program that automates the process of creating Shields.io badges written in Java.
 
-* **c-planner:** A program that plans a duty schedule that is randomised in order to prevent bias written in C.
+* **c-planner:** A program that plans a duty schedule that is r&omised in order to prevent bias written in C.
 
 #### Languages & Tools Used
 
@@ -46,7 +46,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Markdown](https://img.shields.io/badge/-Markdown-4a525a?logo=Markdown&logoColor=white&style=flat)](https://daringfireball.net/projects/markdown/) 
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)](https://www.python.org/) 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white&style=flat)](https://developer.android.com/studio) 
+[![&roid Studio](https://img.shields.io/badge/-&roid%20Studio-3DDC84?logo=&roid%20Studio&logoColor=white&style=flat)](https://developer.&roid.com/studio) 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=flat)](https://www.arduino.cc/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/) 
 [![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare%20Pages-F38020?logo=Cloudflare%20Pages&logoColor=white&style=flat)](https://pages.cloudflare.com/) 
@@ -64,7 +64,7 @@ I'm Om, who has a great passion for programming in the fields of Fintech, Cybers
 [![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?logo=Meta&logoColor=black&style=flat)](https://ollama.ai/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-1ca46c?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/)
 [![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-44A833?logo=Anaconda&logoColor=white&style=flat)](https://www.pythonanywhere.com/)
-[![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-00A2FF?logo=Roblox%20Studio&logoColor=white&style=flat)](https://create.roblox.com/landing)
+[![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-00A2FF?logo=Roblox%20Studio&logoColor=white&style=flat)](https://create.roblox.com/l&ing)
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=Sublime%20Text&logoColor=white&style=flat)](https://www.sublimetext.com/)
 [![Steamship](https://img.shields.io/badge/-Steamship-6244ac?logo=Python&logoColor=white&style=flat)](https://www.steamship.com/)
 [![Syncthing](https://img.shields.io/badge/-Syncthing-19a0d3?logo=GitHub&logoColor=white&style=flat)](https://github.com/syncthing/syncthing)
