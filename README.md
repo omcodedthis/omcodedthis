@@ -1,16 +1,6 @@
 # Hey!
 
-I'm Om, who has a great passion for programming in the fields of Fintech, Cybersecurity, & Generative AI. Currently, I'm taking courses along with personal projects to gain a deeper underst&ing of the use of software & hardware related concepts to solve problems applicable to these domains.
-
-## Courses
-
-* **CS106A:** Teaches the fundamental concepts of programming & problem-solving by Stanford University.
-
-* **[CS50x:](https://github.com/omcodedthis/CS50x-Scores)** Teaches higher-level concepts such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, & web development by Harvard University.
-
-* **[CS61B:](https://github.com/omcodedthis/CS61B-Scores)** Focuses on fundamental data structures & algorithms concepts along with software engineering by UC Berkeley.
-
-* **[CS50CS:](https://github.com/omcodedthis/CS50-Cybersecurity-Scores)** Teaches fundamental concepts on cybersecurity & its relevant trade-offs by Harvard University.
+I'm Om, who has a great passion for programming in the fields of Fintech, Cybersecurity, & Generative AI. Currently, I'm taking courses along with personal projects to gain a deeper understaing of the use of software & hardware related concepts to solve problems applicable to these domains.
 
 ## Projects
 
